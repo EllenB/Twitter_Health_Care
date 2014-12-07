@@ -18,5 +18,6 @@ The following files are added to this Github repository:
 - **HozBarPlot.R**: This code is for creating a horizontal bar plot showing the Top 20 authors of the tweet. The results is in a pdf file using a similar name.
 
 - **Word_Cloud_Anxiety.R**: Code to create a word cloud based on a sample of the data (about 50 000 tweets). The output is given in a JPEG file. 
+- **Filtering_Depression.R**: This code uses a "grep"-type method based on the words "diagnosed" and "suffer" to find potential sufferers from depression. 
 
  
